@@ -1,10 +1,10 @@
-Prehľad
+# Prehľad
 
 Electric Vehicle Routing Problem (EVRP) je rozšírením klasického Vehicle Routing Problem (VRP) so zohľadnením obmedzení batérie elektrických vozidiel. Cieľom je minimalizovať celkové náklady (vzdialenosť alebo čas) pri zabezpečení dobitia batérie v nabíjacích staniciach.
 
 Ant Colony Optimization (ACO) je metaheuristický algoritmus inšpirovaný správaním mravcov pri hľadaní najkratších ciest. Mravce ukladajú feromón na navštívených cestách a tým ovplyvňujú pravdepodobnosť výberu ciest budúcimi mravcami.
 
-Algoritmus ACO
+# Algoritmus ACO
 
 Inicializácia: Nastav feromónové hodnoty na všetkých hranách grafu na rovnocenné malé hodnoty.
 
